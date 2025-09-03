@@ -7,7 +7,7 @@ This project implements Deep Q-Learning (DQN) to train an AI agent to solve the 
 Demo Video
 Below is a sample run of the trained agent:
 
-![Lunar Landing Demo](video.mp4)
+![Lunar Landing Demo](video.gif)
 
 ---
 
