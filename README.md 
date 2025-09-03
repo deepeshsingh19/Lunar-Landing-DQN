@@ -1,0 +1,34 @@
+Lunar Landing with Deep Q-Learning (DQN)
+
+This project implements Deep Q-Learning (DQN) to train an AI agent to solve the classic [LunarLander-v3](https://gymnasium.farama.org/environments/box2d/lunar_lander/) environment using **PyTorch** and Gymnasium.
+
+---
+
+Demo Video
+Below is a sample run of the trained agent:
+
+![Lunar Landing Demo](video.gif)
+
+---
+
+Features
+- Custom Deep Q-Network implemented in PyTorch  
+- Experience Replay for stable training  
+- Soft Target Updates to improve convergence  
+- Training loop with performance tracking  
+
+---
+
+Requirements
+Install dependencies:
+```bash
+pip install -r requirements.txt
+
+## Setup
+
+### Install system dependency
+On macOS:
+```bash
+brew install swig
+
+Colab Link : https://colab.research.google.com/drive/1Ho0jL5sdI4yd_iWhToyNAV6aAbPVYDpO?authuser=3#scrollTo=cb9nVvU2Okhk

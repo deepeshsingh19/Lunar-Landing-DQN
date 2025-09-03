@@ -5,3 +5,6 @@ torch
 numpy
 imageio
 matplotlib
+ipython
+imageio[ffmpeg]
+pillow
