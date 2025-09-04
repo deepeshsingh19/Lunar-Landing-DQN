@@ -7,7 +7,7 @@ This project implements Deep Q-Learning (DQN) to train an AI agent to solve the 
 Demo Video
 Below is a sample run of the trained agent:
 
-![Image](https://github.com/user-attachments/assets/127f66a1-b427-47dd-a01a-972ab160042c)
+[![Image](https://github.com/user-attachments/assets/127f66a1-b427-47dd-a01a-972ab160042c)](https://github.com/user-attachments/assets/1b13e19a-4e3f-4879-9721-16c9aed44067)
 
 ---
 
